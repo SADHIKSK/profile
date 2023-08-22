@@ -99,7 +99,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SADHIKSK/SADHIKSK/output/snake.svg" alt="Snake animation" />
-
-###
